@@ -29,7 +29,7 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 15px 400px;
+    padding: 15px 450px;
 }
 
 .header .text {
@@ -41,7 +41,7 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 15px 400px;
+    padding: 30px 450px;
 }
 
 .left {
@@ -50,4 +50,14 @@ a {
     align-items: flex-start;
     max-width: 500px;
     gap: 5px;
+}
+
+.header-text {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.left .text {
+    font-size: 18px;
+    color: #E5E7EB;
 }
