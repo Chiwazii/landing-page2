@@ -39,6 +39,12 @@ a {
 
 .section-one {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
     padding: 15px;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
 }
