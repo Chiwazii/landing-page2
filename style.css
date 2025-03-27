@@ -27,9 +27,9 @@ a {
 
 .header {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    padding: 15px;
+    padding: 15px 400px;
 }
 
 .header .text {
@@ -39,14 +39,15 @@ a {
 
 .section-one {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    padding: 15px;
+    padding: 15px 400px;
 }
 
 .left {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    padding: 15px;
+    max-width: 500px;
+    gap: 5px;
 }
