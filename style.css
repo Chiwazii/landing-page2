@@ -66,7 +66,7 @@ button {
     background-color: #3882f6;
     border: none;
     color: white;
-    padding: 5px 15px;
+    padding: 5px 20px;
     text-align: center;
     font-weight: 900;
     border-radius: 4px;
@@ -135,8 +135,32 @@ button {
 
 .section-four {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     margin: 50px 450px;
+    background-color: #3882f6;
+    padding: 35px;
+    border-radius: 6px;
     
+}
+
+.section-four .button {
+    border: solid 1px white;
+    border-radius: 4px;
+}
+
+.call-text {
+    color: #E5E7EB;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: white;
+    margin-top: auto;
+    padding: 15px 450px;
 }
