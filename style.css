@@ -80,6 +80,12 @@ button {
     gap: 50px;
 }
 
+.section-two .header {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
 .images {
     display: flex;
     align-items: center;
