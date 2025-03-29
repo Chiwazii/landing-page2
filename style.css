@@ -71,3 +71,17 @@ button {
     font-weight: 900;
     border-radius: 4px;
 }
+
+.section-two {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+    gap: 50px;
+}
+
+.images {
+    display: flex;
+    align-items: center;
+
+}
