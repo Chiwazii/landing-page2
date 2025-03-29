@@ -83,5 +83,17 @@ button {
 .images {
     display: flex;
     align-items: center;
+    gap: 30px;
+}
 
+.image-1, .image-2, .image-3, .image-4 {
+    display:flex;
+    flex-direction: column;
+    width: 200px;
+    gap: 10px;
+}
+
+.images img {
+    border: solid 3px #3882f6;
+    border-radius: 6px;
 }
