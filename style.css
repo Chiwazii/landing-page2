@@ -61,3 +61,13 @@ a {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+button {
+    background-color: #3882f6;
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    font-weight: 900;
+    border-radius: 4px;
+}
