@@ -115,12 +115,20 @@ button {
     color: #1f2937;
     
 }
+.whole-quote {
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    gap: 15px;
+}
 
 .quote {
     font-size: 36px;
     font-style: italic;
 }
 
-.section-three .text {
+.whole-quote .text {
     align-self: flex-end;
+    margin-right: 40px;
+    font-weight: 900;
 }
