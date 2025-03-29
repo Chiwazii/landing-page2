@@ -41,7 +41,7 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px 450px;
+    padding: 50px 450px;
 }
 
 .left {
@@ -49,7 +49,7 @@ a {
     flex-direction: column;
     align-items: flex-start;
     max-width: 500px;
-    gap: 5px;
+    gap: 10px;
 }
 
 .header-text {
