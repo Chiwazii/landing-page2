@@ -112,4 +112,15 @@ button {
     align-items: center;
     background-color: #e5e7eb;
     padding: 50px 450px;
+    color: #1f2937;
+    
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.section-three .text {
+    align-self: flex-end;
 }
