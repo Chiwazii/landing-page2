@@ -90,6 +90,7 @@ button {
     display: flex;
     align-items: center;
     gap: 30px;
+
 }
 
 .image-1, .image-2, .image-3, .image-4 {
@@ -97,6 +98,7 @@ button {
     flex-direction: column;
     width: 200px;
     gap: 10px;
+    text-align: center;
 }
 
 .images img {
